@@ -1,0 +1,64 @@
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.frmClasses.resources
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfo.cs
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.exe
+C:\Users\user\source\repos\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.deps.json
+C:\Users\user\source\repos\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.runtimeconfig.json
+C:\Users\user\source\repos\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.dll
+C:\Users\user\source\repos\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.dll
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\refint\Практичне4.dll
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.genruntimeconfig.cache
+C:\Users\user\source\repos\Практичне4\Практичне4\obj\Debug\net8.0-windows\ref\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.exe
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\bin\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.frmClasses.resources
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\refint\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\Практичне4.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практичне4\Практичне4\obj\Debug\net8.0-windows\ref\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.exe
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.frmClasses.resources
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\refint\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4(приклад)\Практичне4\obj\Debug\net8.0-windows\ref\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.exe
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\bin\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.frmClasses.resources
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\refint\Практичне4.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\Практичне4.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (приклад)\Практичне4\obj\Debug\net8.0-windows\ref\Практичне4.dll
