@@ -1,0 +1,32 @@
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\ilja1\Desktop\Лабораторні\Практична4 (завдання)\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
